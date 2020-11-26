@@ -4,7 +4,9 @@ ada-2020-project-milestone-p3-p3_adam-et-eva created by GitHub Classroom
 # Title: Life satisfaction and housing conditions in London
 
 ## Abstract:
-Cattaneo and al., in their paper Housing, Health and Happiness, discuss the influence of housing on health and welfare by studying the impact of a large-scale household Mexican government program, Piso Firme. In particular, they found that housing upgrades significantly improve adult welfare, as measured by increased satisfaction with their housing and quality of life, as well as lower depression and perceived stress.This raises an interesting point: how does their findings generalize to other cities? Is it possible to establish links between housing and life satisfaction in a big European city? We decided to extend their work by looking at data sets on housing in London. We aim at establishing the influence of numerous housing variables, such as prices, neighbourhoods (and conditions) on life satisfaction and happiness. We will further extend our research on whether political opinion is defined by housing and neighbourhood conditions.
+Cattaneo and al., in their paper Housing, Health and Happiness, discuss the influence of housing on health and welfare by studying the impact of a large-scale household Mexican government program, Piso Firme. In particular, they found that housing upgrades significantly improve adult welfare, as measured by increased satisfaction with their housing and quality of life, as well as lower depression and perceived stress.This raises an interesting point: 
+#### how does their findings generalize to other cities? Is it possible to establish links between housing and life satisfaction in a big European city? 
+We decided to extend their work by looking at data sets on housing in London. We aim at establishing the influence of numerous housing variables, such as prices, neighbourhoods (and conditions) on life satisfaction and happiness. We will further extend our research by examining whether political opinion is defined by housing and neighbourhood conditions.
 
 ## Research Questions: 
 #### Q1: 
