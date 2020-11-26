@@ -33,6 +33,7 @@ The datasets are relatively clean, with simple value definitions.
 - 1st dataset: 7 variables
 - 2nd dataset: 12 variables
 - 3rd dataset: 85 variables
+
 Data exploratory analysis would be used to find any irregularities or missing values, and investigation of the proportion of missing values, and of the mean/median of the variables would help us decide how to treat missing values. Some data processing would thus have to be done based on the data exploration results. For example, we will have to do some data processing for the dates in the first two datasets, to express them in timestamp format; missing values in area code in the third data set also require some processing, as well as missing values in any other features. Furthermore, potential merging of data from different datasets will require data selection based on existing boroughs and years in the different datasets.
 These three datasets will mutually enrich each other, as they offer a very large overview of many variables on London neighbourhoods, allowing to obtain a rather complete set of information to evaluate the influence of housing conditions on life satisfaction.  We are able to consider multiple housing conditions (boroughs, house prices, population density, greenspace, number of jobs, ...) to discuss satisfaction indices (life satisfaction, anxiety, happiness, …)
 
@@ -56,27 +57,16 @@ Friday, Dec. 4th - P4a: Code for questions 1 & 2 & Data Visualization done
 Week 2: Redaction of Question 1 and 2 + Question 3
 Friday, Dec. 11th - P4b: Code for question 3 done + Questions 1 & 2 & Data Visualization part written in the report (+ code comments in notebook)
 
-####P4c
+#### P4c
 Week 3: Report + Write Pitch (film later) + Redaction Question 3
 Friday, Dec. 18th - P4c: Redaction in the report & code comments in notebook for Question 3 + Abstract, introduction, data collection & conclusion parts of the report done + Pitch text done
 
 ## Organization within the team:
 A list of internal milestones up until project milestone P4. Add here a sketch of your planning for the next project milestone.
 
-Week
-Valentine Perrin
-Elodie Raes
-Ariane de Marcillac
-1, P4a
-Question 2
-Data Visualisation
-Question 1
-2, P4b
-Redaction Q2 + Report
-Question 3
-Redaction Q1 + Report
-3, P4c
-Finalisation + Pitch redaction
-Redaction Q3
-Finalisation + Pitch redaction
-Redaction Q* means: Writing the ‘methods’ part used in the question, write the results
+Weeks                   Valentine Perrin                  Elodie Raes           Ariane de Marcillac
+1, P4a                  Question 2                        Data Visualisation    Question 1
+2, P4b                  Redaction Q2 + Report             Question 3            Redaction Q1 + Report
+3, P4c                  Finalisation + Pitch redaction    Redaction Q3          Finalisation + Pitch redaction
+
+Note: Redaction Q* means: Writing the ‘methods’ part used in the question, write the results
