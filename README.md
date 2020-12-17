@@ -68,7 +68,7 @@ The individual part of P4 (Part B) is managed individually by each group member 
 - Week 3: Report + Write Pitch (film later) + Redaction Question 3
 - Friday, Dec. 18th - P4c: Redaction in the report & code comments in notebook for Question 3 + Abstract, introduction, data collection & conclusion parts of the report done + Pitch text done
 
-## Organization within the team:
+## Organization plan within the team:
 #### P4a
 - Valentine Perrin: Question 2
 - Elodie Raes: Data Visualisation
