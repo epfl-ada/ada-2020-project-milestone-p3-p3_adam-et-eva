@@ -59,19 +59,36 @@ The individual part of P4 (Part B) is managed individually by each group member 
 - Week 3: Report + Write and Film Pitch + Redaction Question 3
 - Friday, Dec. 18th - P4c: Redaction in the report & code comments in notebook for Question 3 + Abstract, introduction, data collection & conclusion parts of the report done + Pitch text done
 
-## Organization plan within the team:
+## Organization within the team (expected):
+### Week 1
+- Valentine Perrin: Question 2
+- Elodie Raes: Data Visualisation
+- Ariane de Marcillac: Question 1
+
+### Week 2
+- Valentine Perrin: Redaction Question 2
+- Elodie Raes: Question 3
+- Ariane de Marcillac: Redaction of Question 3
+
+### Week 3
+- Valentine Perrin: Finalisation + Pitch
+- Elodie Raes: Redaction Question 3
+- Ariane de Marcillac: Finalisation + Pitch
+
+Note: Redaction Q* means: Writing the ‘methods’ part used in the question, write the results
+
+## Tasks done by each team member:
 ### Week 1
 - Valentine Perrin: Question 2 and Question 3
 - Elodie Raes: Data Visualisation
 - Ariane de Marcillac: Question 1
 
 ### Week 2
-- Valentine Perrin: Redaction of report for Questions 2 and 3 
-- Ariane de Marcillac: Redaction of report Question 1 + Data visualisation
+- Valentine Perrin: Creation of Jekyll support for the data story + Redaction of data story and notebook 
+- Ariane de Marcillac: Redaction of data story for Question 1 + Data visualisation
 
 ### Week 3
-- Valentine Perrin: Finalisation + Data visualisation + Creation of Jekyll support for the data Story
+- Valentine Perrin: Data visualisation coding and redaction + Finalisation data story and notebook
 - Elodie Raes: Data visualisation
-- Ariane de Marcillac: Finalisation + Pitch redaction + Pitch filming + Conclusion
+- Ariane de Marcillac: Finalisation data story and notebook + Pitch redaction and filming + Conclusion
 
-Note: Redaction Q* means: Writing the ‘methods’ part used in the question, write the results
