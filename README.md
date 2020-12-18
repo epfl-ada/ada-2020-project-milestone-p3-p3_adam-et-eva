@@ -66,12 +66,11 @@ The individual part of P4 (Part B) is managed individually by each group member 
 
 ### Week 2
 - Valentine Perrin: Redaction of report for Questions 2 and 3 
-- Elodie Raes: Data Visualisation
 - Ariane de Marcillac: Redaction of report Question 1 + Data visualisation
 
 ### Week 3
-- Valentine Perrin: Finalisation + Data visualisation
+- Valentine Perrin: Finalisation + Data visualisation + Creation of Jekyll support for the data Story
 - Elodie Raes: Data visualisation
-- Ariane de Marcillac: Finalisation + Pitch redaction + Pitch filming
+- Ariane de Marcillac: Finalisation + Pitch redaction + Pitch filming + Conclusion
 
 Note: Redaction Q* means: Writing the ‘methods’ part used in the question, write the results
