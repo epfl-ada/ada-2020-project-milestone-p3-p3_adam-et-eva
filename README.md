@@ -1,7 +1,7 @@
 # ada-2020-project-milestone-p3-p3_adam-et-eva
 ada-2020-project-milestone-p3-p3_adam-et-eva created by GitHub Classroom
 
-# Title: Life satisfaction and housing conditions in London
+# Title: Happiness and housing conditions in London
 
 ## Data story:
 
