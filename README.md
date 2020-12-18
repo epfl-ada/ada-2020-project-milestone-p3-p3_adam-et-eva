@@ -24,8 +24,8 @@ Can we predict political control based on life satisfaction and housing conditio
 - 85 variables
 
 #### Access the data and description:
-To get the dataset, we just downloaded the .csv file from the link above. csv files reading is very adapted to python and its libraries.
-Our dataset gives us additional information on the London Boroughs and their demographics including crime statistics, life satisfaction, political aspects, and happiness score for example. For the third dataset, the data was collected in 2016, with variables ranging from 2011 to 2015.
+To get the dataset, we just downloaded the .csv file from the link above as .csv files reading is very adapted to python and its libraries.
+Our dataset gives us valuable information on the London Boroughs and their demographics including crime statistics, life satisfaction, political aspects, and happiness score for example. The data was collected in 2016, with variables ranging from 2011 to 2015.
 The dataset is relatively clean, with simple value definitions.
 
 #### Data exploration, cleaning and processing:
