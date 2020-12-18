@@ -16,7 +16,7 @@ Does location define life satisfaction or is it defined by standard of living (j
 #### Q2: 
 Can we group neighborhoods by looking at well being, security and economic stability? 
 #### Q3: 
-Can we predict political control based on life satisfaction and housing conditions ? 
+Do differences in political control translates in well-being and housing conditions? 
 
 #### Dataset:
 “london-borough-profiles-2016_Data_Set.csv”
@@ -29,7 +29,8 @@ Our dataset gives us valuable information on the London Boroughs and their demog
 The dataset is relatively clean, with simple value definitions.
 
 #### Data exploration, cleaning and processing:
-Data exploratory analysis was used to find any irregularities or missing values, investigate the proportion of missing values, and of the mean/median of the variables would help us decide how to treat missing values. Some data processing was thus done based on the data exploration results. For example, we did some data processing for the dates in the first two datasets, to express them in timestamp format; missing values in area code in the third data set also required some processing, as well as missing values in any other features. 
+Data exploratory analysis was used to find any irregularities or missing values, investigate the proportion of missing values, and of the mean/median of the variables would help us decide how to treat missing values. Some data processing was thus done based on the data exploration results. Missing values in area code in the data set required some processing, as well as missing values in any other features. Furthermore, careful considerations about the variable types were necessary.
+
 The dataset offers a very large overview of many variables on London neighbourhoods, allowing to obtain a rather complete set of information to evaluate the influence of housing conditions on life satisfaction.  We are able to consider multiple housing conditions (boroughs, house prices, population density, greenspace, number of jobs, ...) to discuss satisfaction indices (life satisfaction, anxiety, happiness, …)
 
 ## Methods:
@@ -40,7 +41,7 @@ Perform regressions and see which variables give us more significant results: en
 Use clustering methods guided by a calculation of neighborhood’s life satisfaction means. We look at the difference in means of mean salary, life satisfaction and housing prices and crime rates, to then guide PCA and clustering (using k-means).
 
 #### Q3: 
-Done by looking at the third dataset, and performing a classification with logistic regression. The idea is to develop a model to predict the party in political control by neighbourhoods, depending on all the standard of living criteria (life satisfaction score, happiness score, anxiety score, worthwhileness score, percentage of area that is green space…); the significance levels of the control variables will be assessed to discuss whether political views are significantly affected by life conditions (housing, happiness).
+Perform statistical t-tests to look for significant differences between labour-controlled and conservative-controlled boroughs. The statistical tests are preceded by mean difference calculations and some distribution plotting.
 
 ## Timeline:
 We made one milestone per week (every Friday). Each milestone was updated based on the previous ones, and each week was concluded by a zoom meeting with all team members.
