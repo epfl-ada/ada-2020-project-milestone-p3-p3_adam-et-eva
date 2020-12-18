@@ -16,7 +16,7 @@ Does location define life satisfaction or is it defined by standard of living (j
 #### Q2: 
 Can we group neighborhoods by looking at well being, security and economic stability? 
 #### Q3: 
-Do differences in political control translates in well-being and housing conditions? 
+Do differences in political control translate in well-being and housing conditions? 
 
 #### Dataset:
 “london-borough-profiles-2016_Data_Set.csv”
